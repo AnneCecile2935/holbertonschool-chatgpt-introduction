@@ -1,4 +1,3 @@
-$ cat factorial.py
 #!/usr/bin/python3
 import sys
 

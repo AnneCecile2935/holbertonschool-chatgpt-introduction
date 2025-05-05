@@ -1,5 +1,13 @@
 #!/usr/bin/env python3
+"""
+    A class to represent a simple checkbook system for deposits and withdrawals.
 
+    Description: This class allows you to perform basic banking operations like
+    depositing money, withdrawing money, and checking your current balance.
+
+    Attributes:
+        balance (float): The current balance in the checkbook.
+"""
 class Checkbook:
     def __init__(self):
         self.balance = 0.0
